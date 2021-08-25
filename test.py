@@ -416,7 +416,7 @@ start_time = time.time()
 # Variables
 USER_NAME = ''
 USER_PASS = ''
-SYSTEM = 'devpwa.rt-solar.ru:8080/_layouts/15/PWA/Admin/ManageUsers.aspx'
+SYSTEM = ''
 
 # Log file
 log = open('log.txt', 'w', encoding="utf-8", errors='ignore')
